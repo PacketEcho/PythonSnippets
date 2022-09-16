@@ -1,2 +1,2 @@
-# UsefulPython
+# PythonSnippets
 Useful snippets of Python
